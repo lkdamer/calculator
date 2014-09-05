@@ -1,3 +1,4 @@
+#Credit to Cate for showing me her never-ending calculator
 include Math
 
 #Which mathy method should we call?
